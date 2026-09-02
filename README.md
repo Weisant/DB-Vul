@@ -1,5 +1,9 @@
-# DB-Vul
-A manually validated dataset of reproducible Docker environments for 211 publicly disclosed DBMS vulnerabilities across 17 database systems.
+# DB-Vul-Set
+
+> [!NOTE]
+> This repository is currently being updated. The complete DB-Vul dataset has not yet been uploaded, and additional vulnerability samples and related materials will be added progressively.
+
+A manually validated dataset of reproducible Docker environments for **211** publicly disclosed DBMS vulnerabilities across **17** database systems.
 
 To define the scope of DBMS vulnerabilities, we follow the DBMS-oriented product classification used by the [DB-Engines Ranking](https://db-engines.com/en/ranking)
 
