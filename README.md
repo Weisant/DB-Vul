@@ -9,6 +9,7 @@ To define the scope of DBMS vulnerabilities, we follow the DBMS-oriented product
 
 Each sample is organized in a separate directory containing the triggering code, vulnerable source files or key code snippets, a Dockerized vulnerable environment, and a structured security write-up. The write-up documents the vulnerability mechanism, affected versions, environment configuration, vulnerable code location, patching strategy, reproduction procedure, code analysis, and supporting sources.
 
+
 The detailed distribution is shown below.
 
 <table>
@@ -117,3 +118,10 @@ The detailed distribution is shown below.
 <td><b>100.0%</b></td>
 </tr>
 </table>
+
+
+## Disclosure and Remediation Status
+
+All vulnerabilities included in DB-Vul have been publicly disclosed through CVE/NVD records, vendor security advisories, public issue trackers, or other recognized public sources.
+
+DB-Vul does not intentionally include undisclosed vulnerabilities, embargoed vulnerabilities, or zero-day vulnerabilities.
