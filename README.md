@@ -124,8 +124,3 @@ The detailed distribution is shown below.
     </tr>
   </tbody>
 </table>
-      <td><b>211</b></td>
-      <td><b>100.0%</b></td>
-    </tr>
-  </tbody>
-</table>
