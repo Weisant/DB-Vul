@@ -8,119 +8,108 @@ Each sample is organized in a separate directory containing the triggering code,
 The detailed distribution is shown below.
 
 <table>
-  <thead>
-    <tr>
-      <th>Database Category</th>
-      <th>Database</th>
-      <th>Count</th>
-      <th>Percentage</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="8">Relational / SQL</td>
-      <td>MariaDB</td>
-      <td>50</td>
-      <td>23.7%</td>
-    </tr>
-    <tr>
-      <td>PostgreSQL</td>
-      <td>39</td>
-      <td>18.5%</td>
-    </tr>
-    <tr>
-      <td>SQLite</td>
-      <td>32</td>
-      <td>15.2%</td>
-    </tr>
-    <tr>
-      <td>MySQL</td>
-      <td>7</td>
-      <td>3.3%</td>
-    </tr>
-    <tr>
-      <td>H2DB</td>
-      <td>3</td>
-      <td>1.4%</td>
-    </tr>
-    <tr>
-      <td>CrateDB</td>
-      <td>2</td>
-      <td>0.9%</td>
-    </tr>
-    <tr>
-      <td>DuckDB</td>
-      <td>1</td>
-      <td>0.5%</td>
-    </tr>
-    <tr>
-      <td>TiDB</td>
-      <td>1</td>
-      <td>0.5%</td>
-    </tr>
-
-    <tr>
-      <td>Key-value</td>
-      <td>Redis</td>
-      <td>30</td>
-      <td>14.2%</td>
-    </tr>
-
-    <tr>
-      <td rowspan="2">Document</td>
-      <td>MongoDB</td>
-      <td>10</td>
-      <td>4.7%</td>
-    </tr>
-    <tr>
-      <td>CouchDB</td>
-      <td>5</td>
-      <td>2.4%</td>
-    </tr>
-
-    <tr>
-      <td rowspan="2">Search Engine</td>
-      <td>Solr</td>
-      <td>10</td>
-      <td>4.7%</td>
-    </tr>
-    <tr>
-      <td>Elasticsearch</td>
-      <td>5</td>
-      <td>2.4%</td>
-    </tr>
-
-    <tr>
-      <td>Column-oriented</td>
-      <td>ClickHouse</td>
-      <td>8</td>
-      <td>3.8%</td>
-    </tr>
-
-    <tr>
-      <td rowspan="2">Time-series</td>
-      <td>OpenTSDB</td>
-      <td>5</td>
-      <td>2.4%</td>
-    </tr>
-    <tr>
-      <td>InfluxDB</td>
-      <td>2</td>
-      <td>0.9%</td>
-    </tr>
-
-    <tr>
-      <td>Graph</td>
-      <td>Neo4j</td>
-      <td>1</td>
-      <td>0.5%</td>
-    </tr>
-
-    <tr>
-      <td><b>Total</b></td>
-      <td><b>17 DBMSs</b></td>
-      <td><b>211</b></td>
-      <td><b>100.0%</b></td>
-    </tr>
-  </tbody>
+<tr>
+<th>Database Category</th>
+<th>Database</th>
+<th>Count</th>
+<th>Percentage</th>
+</tr>
+<tr>
+<td rowspan="8">Relational / SQL</td>
+<td>MariaDB</td>
+<td>50</td>
+<td>23.7%</td>
+</tr>
+<tr>
+<td>PostgreSQL</td>
+<td>39</td>
+<td>18.5%</td>
+</tr>
+<tr>
+<td>SQLite</td>
+<td>32</td>
+<td>15.2%</td>
+</tr>
+<tr>
+<td>MySQL</td>
+<td>7</td>
+<td>3.3%</td>
+</tr>
+<tr>
+<td>H2DB</td>
+<td>3</td>
+<td>1.4%</td>
+</tr>
+<tr>
+<td>CrateDB</td>
+<td>2</td>
+<td>0.9%</td>
+</tr>
+<tr>
+<td>DuckDB</td>
+<td>1</td>
+<td>0.5%</td>
+</tr>
+<tr>
+<td>TiDB</td>
+<td>1</td>
+<td>0.5%</td>
+</tr>
+<tr>
+<td>Key-value</td>
+<td>Redis</td>
+<td>30</td>
+<td>14.2%</td>
+</tr>
+<tr>
+<td rowspan="2">Document</td>
+<td>MongoDB</td>
+<td>10</td>
+<td>4.7%</td>
+</tr>
+<tr>
+<td>CouchDB</td>
+<td>5</td>
+<td>2.4%</td>
+</tr>
+<tr>
+<td rowspan="2">Search Engine</td>
+<td>Solr</td>
+<td>10</td>
+<td>4.7%</td>
+</tr>
+<tr>
+<td>Elasticsearch</td>
+<td>5</td>
+<td>2.4%</td>
+</tr>
+<tr>
+<td>Column-oriented</td>
+<td>ClickHouse</td>
+<td>8</td>
+<td>3.8%</td>
+</tr>
+<tr>
+<td rowspan="2">Time-series</td>
+<td>OpenTSDB</td>
+<td>5</td>
+<td>2.4%</td>
+</tr>
+<tr>
+<td>InfluxDB</td>
+<td>2</td>
+<td>0.9%</td>
+</tr>
+<tr>
+<td>Graph</td>
+<td>Neo4j</td>
+<td>1</td>
+<td>0.5%</td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td><b>17 DBMSs</b></td>
+<td><b>211</b></td>
+<td><b>100.0%</b></td>
+</tr>
 </table>
