@@ -1,7 +1,7 @@
 # DB-Vul
 A manually validated dataset of reproducible Docker environments for 211 publicly disclosed DBMS vulnerabilities across 17 database systems.
 
-To define the scope of DBMS vulnerabilities, we follow the DBMS-oriented product classification used by the [DB-Engines Ranking](https://db-engines.com/en/ranking
+To define the scope of DBMS vulnerabilities, we follow the DBMS-oriented product classification used by the [DB-Engines Ranking](https://db-engines.com/en/ranking)
 
 Each sample is organized in a separate directory containing the triggering code, vulnerable source files or key code snippets, a Dockerized vulnerable environment, and a structured security write-up. The write-up documents the vulnerability mechanism, affected versions, environment configuration, vulnerable code location, patching strategy, reproduction procedure, code analysis, and supporting sources.
 
@@ -119,6 +119,11 @@ The detailed distribution is shown below.
     <tr>
       <td><b>Total</b></td>
       <td><b>17 DBMSs</b></td>
+      <td><b>211</b></td>
+      <td><b>100.0%</b></td>
+    </tr>
+  </tbody>
+</table>
       <td><b>211</b></td>
       <td><b>100.0%</b></td>
     </tr>
